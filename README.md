@@ -1,36 +1,36 @@
-# 机器学习相关知识
+## 机器学习相关知识
 
-## 常见算法
+### 常见算法
 
-## 大数据比赛平台
+### 大数据比赛平台
 
-# python相关介绍
+### python相关介绍
 
-# linux系统下必备技能
+## linux系统下必备技能
 
-## shell
+### shell
 
-## vim
+### vim
 
-## git
+### git
 
-# 分布式系统
+## 分布式系统
 
-## hadoop
+### hadoop
 
-## spark
+### spark
 
-## hive
+### hive
 
-# AI的未来方向(基于会议相关内容进行讲解）
+##  AI的未来方向(基于会议相关内容进行讲解）
 
-# 机器学习相关知识
+## 机器学习相关知识
 
 未来3-5年，那个机器学习方向最缺人才
 
 https://daily.zhihu.com/story/9645981?utm_campaign=in_app_share&utm_medium=iOS&utm_source=weixin
 
-## 机器学习常用算法
+### 机器学习常用算法
 
 机器学习算法分类：监督学习、无监督学习、强化学习
 
@@ -45,7 +45,7 @@ https://www.jiqizhixin.com/articles/a-tour-of-the-top-10-algorithms-for-machine-
 
 https://blog.csdn.net/xx19901314/article/details/52168260
 
-## 大数据比赛平台
+### 大数据比赛平台
 比赛平台 ：kaggle  阿里天池比赛
  
 kaggle从小白到入门
@@ -60,7 +60,7 @@ Kaggle 机器学习竞赛冠军及优胜者的源代码汇总
 
 https://blog.csdn.net/qq_26898461/article/details/49275401
 
-python 相关库介绍
+## python 相关库介绍
 
 matplotlib库使用常用实例
 
@@ -87,9 +87,9 @@ https://blog.csdn.net/loveliuzz/article/details/78783773
 
 语言和软件：markdown、tableau
 
-# linux系统必备操作技能
+## linux系统必备操作技能
 
-## 1 shell
+### 1 shell
 
 Shell基本命令
 
@@ -228,21 +228,21 @@ Shell进阶命令
   lsof –i                     实时查看本机网络服务的活动状态
  
  
-## 2 vim
+### 2 vim
 
 https://www.cnblogs.com/yangjig/p/6014198.html
 
-## 3 git
+### 3 git
 
 https://github.com/Klarustx/materials/tree/master/git
 
- # 分布式系统
+## 分布式系统
 
-## 1 hadoop
+### 1 hadoop
 
 https://segmentfault.com/a/1190000002672666#articleHeader3
 
-## 2 spark
+### 2 spark
  
 http://spark.apachecn.org/docs/cn/2.2.0/sql-programming-guide.html
  
@@ -262,7 +262,7 @@ https://spark.apache.org/docs/2.1.2/api/java/org/apache/spark/sql/package-summar
 
 [7] BLAS (Basic Linear Algebra Subprograms)：http://www.netlib.org/blas/
  
-##3  hive
+### 3 hive
 
 类似sql，懂sql就行
 
@@ -272,6 +272,6 @@ http://www.w3school.com.cn/sql/sql_orderby.asp
 
 scala 可选择性了解，目前大多数正由python转scala
 
-#AI的未来方向
+## AI的未来方向
 
 https://mp.weixin.qq.com/s/YyhseutnjjSV8_wMQ0THpw
