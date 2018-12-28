@@ -1,27 +1,36 @@
-# 
+# 机器学习相关知识
 
-#机器学习相关知识
-##常见算法
-##大数据比赛平台
-#python相关介绍
-#linux系统下必备技能
-##shell
-##vim
-##git
-#分布式系统
+## 常见算法
+
+## 大数据比赛平台
+
+# python相关介绍
+
+# linux系统下必备技能
+
+## shell
+
+## vim
+
+## git
+
+# 分布式系统
+
 ## hadoop
+
 ## spark
+
 ## hive
 
-#AI的未来方向(基于会议相关内容进行讲解）
+# AI的未来方向(基于会议相关内容进行讲解）
 
-#机器学习相关知识
+# 机器学习相关知识
 
 未来3-5年，那个机器学习方向最缺人才
 
 https://daily.zhihu.com/story/9645981?utm_campaign=in_app_share&utm_medium=iOS&utm_source=weixin
 
-##机器学习常用算法
+## 机器学习常用算法
 
 机器学习算法分类：监督学习、无监督学习、强化学习
 
