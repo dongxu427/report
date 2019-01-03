@@ -129,7 +129,7 @@ https://spark.apache.org/docs/2.1.2/api/java/org/apache/spark/sql/package-summar
 
 [7] BLAS (Basic Linear Algebra Subprograms)：http://www.netlib.org/blas/
  
-### 3 hive
+### hive
 
 类似sql，懂sql就行
 
